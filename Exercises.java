@@ -23,11 +23,11 @@ public class Exercises {
     {
         memory m=new memory(2000,300);
         m.allocate("P01",300);
-        /*m.allocate("P02",500);
+        m.allocate("P02",500);
         m.allocate("P03",100);
         m.deallocate("P02");
         m.allocate("P07",150);
-        m.allocate("P01",300);*/
+        m.allocate("P01",300);
         m.deallocate("P01");
         m.printme();
     }
