@@ -4,7 +4,9 @@ import java.util.Scanner;
 public class Exercises {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentss
+     gg
+     
      */
     public static void main(String[] args) {
         // TODO code application logic here
